@@ -1,0 +1,8 @@
+__pycache__/
+*.pt
+*.pkl
+*.pth
+*.mp4
+*.avi
+./CV/hw2/part1/p1_data/
+./CV/hw2/part2/p2_data/
